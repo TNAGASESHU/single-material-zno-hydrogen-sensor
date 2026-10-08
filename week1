@@ -1,1 +1,37 @@
+Weekly Progress Report – Week 1
 
+Project: ZnO thin-film gas sensor (DC reactive sputtering) – low-cost sensor development Team: T. Naga Seshu, V. Balu, K. Pavan Guide: Dr. Shashi Kant Dargar Week no.: 1 Dates: [FILL: dd/mm/yyyy] to [FILL: dd/mm/yyyy]
+
+Items in [FILL: ...] must be replaced with your real dates, numbers or file names before you commit.
+
+1. Planned for this week
+#	Task	Owner
+1	Literature survey on ZnO / Pd-based gas sensors and transformer / hydrogen safety	[FILL]
+2	Problem identification and need analysis	[FILL]
+3	Study of simulation tools (Silvaco ATLAS, DeckBuild, TonyPlot) for ZnO devices	[FILL]
+4	Study of lab protocol and film-deposition plan (12 films, 3 oxygen levels x 4 thicknesses)	[FILL]
+2. Work completed
+Task	Status	What was done	Evidence
+Literature survey	Done	Exported and screened the literature set (42 search exports, about 4,400 unique papers) and read five key papers in full: Pd-based hydrogen sensor review (Sensors 2025), electrochemical H2 sensor (Sensors 2025), Pd/ZnO sensor for H2 in transformer oil (ACS Sensors 2025), Pd-coated FBG sensors for transformer oil (IEEE Access 2025), transformer diagnostics review (Energies 2016)	papers folder, notes: [FILL: file name]
+Problem and need analysis	[Done / Partial]	Drafted the Need Analysis and problem statement; evidence (interviews, observations) [FILL: how many done]	[FILL: file name]
+Simulation tool study	Done	Summarised the tools used for the ZnO TFT simulation: ATLAS (device solver), DeckBuild (input-deck environment), TonyPlot (visualisation); physical models (mobility, SRH recombination, traps)	ZnO_TFT_Silvaco_Simulation_Tools.pptx
+Protocol study	Done	Reviewed the lab protocol: fixed sputtering conditions (Zn target, 50 W, 1.0 x 10^-2 mbar, no substrate heating), Ar:O2 ratios 3:2, 3:1, 9:1, thicknesses 50-400 nm, measurement list	protocol PDF
+Substrate preparation	[Done / Not started]	[FILL: cleaning steps and number of 1.5 x 1.5 cm glass substrates prepared]	[FILL]
+3. Key results
+Literature gap identified: Pd-based sensors face a selectivity limitation, and many operate at elevated temperature; the closest prior work on H2 in transformer oil uses a resistive Pd/ZnO nanorod sensor.
+Experimental plan fixed: [FILL: confirm number of films and groups].
+4. Problems and risks
+Problem	Impact	Action
+[FILL: e.g. instrument or target availability]	[FILL]	[FILL]
+5. Not completed and why
+
+[FILL, or write "None"]
+
+6. Plan for next week
+#	Task	Owner	Deadline
+1	Calibration depositions (3 films, 20 min each, 50 W) and thickness measurement	[FILL]	[FILL]
+2	Sheet resistance of calibration films	[FILL]	[FILL]
+3	Main deposition of the film set	[FILL]	[FILL]
+7. Guide's comments
+
+Signed: ______ (team) ______ (guide) Date: ______
